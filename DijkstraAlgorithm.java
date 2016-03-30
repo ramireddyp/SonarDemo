@@ -11,7 +11,7 @@ import java.io.InputStreamReader;
 import java.util.*;
 
 /**
- * @author Soundharya
+ * @author Vepagada
  */
 
 public class DijkstraAlgorithm {
