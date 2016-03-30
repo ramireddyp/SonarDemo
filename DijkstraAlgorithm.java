@@ -2,9 +2,6 @@
  * This class will find the shortest distances for the given all nodes using Dijskastra algorithm.
  * 
  */
-
-package com.service;
-
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
